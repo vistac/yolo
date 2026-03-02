@@ -6,5 +6,8 @@ dist/
 wheels/
 *.egg-info
 
+# Whisper model location
+_models
+
 # Virtual environments
 .venv
